@@ -1,4 +1,4 @@
-# HTML & CSS Development Guide
+# HTML Development Guide
 
 ## Introduction
 HTML (HyperText Markup Language) is the foundation of web development. It defines the structure and content of a web page. This README serves as a comprehensive guide to HTML development, covering essential concepts, tools, and best practices.
