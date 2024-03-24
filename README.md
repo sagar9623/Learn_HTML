@@ -3,6 +3,9 @@
 ## Introduction
 HTML (HyperText Markup Language) is the foundation of web development. It defines the structure and content of a web page. This README serves as a comprehensive guide to HTML development, covering essential concepts, tools, and best practices.
 
+## Tutorial Link
+YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=qz0aGYrrlhU).
+
 ## Purpose of HTML
 HTML is used to create the structure and content of a web page. It defines various elements like paragraphs, images, headers, links, and lists, allowing developers to organize and present information effectively.
 
